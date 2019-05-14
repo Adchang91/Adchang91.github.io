@@ -1,11 +1,11 @@
 # Site settings
-author: Adam Chang
-title: 
+author: ADAM CHANG
+title: Flatiron Data Science
 header-img: img/home-bg.png
 email: achang10@northwell.edu
-copyright_name: Adam Chang
+copyright_name: ADAM CHANG
 description: > # this means to ignore newlines until "baseurl:"
-  
+  From Data Analyst to Data Scientist
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Adchang91
