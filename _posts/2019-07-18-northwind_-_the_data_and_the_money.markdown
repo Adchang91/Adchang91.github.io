@@ -7,6 +7,7 @@ permalink:  northwind_-_the_data_and_the_money
 
 
 This project is a treasure hunt. We're given a database map and expected to search every nook and cranny of the data to find all the Easter eggs. Luckily for us, this is just an exercise and we only needed to do 4 hypothesis tests but even with a small sample database, the potential questions are endless.
+
 As a data analyst, I’m used to using SQL Server language to manipulate and wrangle my data but working with sqlite3 and Pandas has been liberating. Using pd.read_sql_query to assign a variable to SQL tables and using pd.merge to join tables has been a blast to use. Additionally, the interface of Jupyter Notebook feels cleaner than SQL Server, in my opinion of course. However, forgive me for saying this, querying in Microsoft Access is the easiest and fastest to use because of its GUI. At least for now, until I become more familiar with Pandas. But add in the fact that Python has tools such as Numpy, Matplotlib, Seaborn, Statsmodels and it becomes a no brainer.
 
 The Northwind Traders Database has 13 tables all intertwined with unique ID keys. Each table describes a different facet of the company. You got your products, suppliers, employees, customers, etc. that all connect to map the company’s business. No business model is perfect and that’s where I, The Data Scientist, come in. This where I shine to find the, aforementioned, nooks and crannies.
