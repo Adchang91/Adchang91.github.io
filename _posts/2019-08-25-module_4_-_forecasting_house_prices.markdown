@@ -5,7 +5,6 @@ date:       2019-08-25 20:22:43 -0400
 permalink:  module_4_-_forecasting_house_prices
 ---
 
-
 So here you are, a new and upcoming Data Scientist, hired by a real-estate investment firm to allocate millions of their dollars into various houses around the nation. You’ve got more than 14,000 zip codes and more than 20 years of monthly average house price data to work with. How would you convince the firm on what the 5 best zip codes are to invest in?
 
 Amazingly, Facebook Prophet will do the job for us. Facebook Prophet is a forecasting tool that utilizes past data to predict the future. Facebook Prophet is capable of producing a graph of real data and forecasted data, yearly trends, monthly trends, daily trends, and most importantly, a DataFrame of desired forecast values based on the user’s settings. 
